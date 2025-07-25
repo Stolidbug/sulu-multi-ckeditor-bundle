@@ -256,7 +256,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Christophe Lignères**
 - GitHub: [@stolidbug](https://github.com/stolidbug)
-- Email: christophe@ligneres.dev
+- Email: christophe@akawaka.fr
 
 ## 🤝 Contributing
 
