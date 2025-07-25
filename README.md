@@ -267,11 +267,3 @@ Feel free to check the [issues page](https://github.com/stolidbug/sulu-multi-cke
 ## 🌟 Show your support
 
 Give a ⭐️ if this project helped you!
-
-## 🗺️ Roadmap
-
-- [ ] Visual configuration builder
-- [ ] More preset configurations  
-- [ ] Plugin system for custom toolbars
-- [ ] Template-level configuration inheritance
-- [ ] Configuration validation and documentation
